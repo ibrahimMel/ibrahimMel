@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Ibrahim%20Amine%20Melhaoui&fontSize=36&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=2C5364&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Logiciel+Full+Stack;Java+%2F+Spring+Boot+%C2%B7+.NET+%C2%B7+React;Architecture+propre+%C2%B7+Code+maintenable" />
-</p>
+<h1 align="center">Ibrahim Amine Melhaoui</h1>
+<h3 align="center">Ingénieur Logiciel Full Stack · Java / Spring Boot · .NET · React</h3>
 
 <p align="center">
   Je conçois et développe des applications full stack robustes, maintenables et prêtes pour la production.
