@@ -1,5 +1,6 @@
-<h1 align="center">Ibrahim Amine Melhaoui</h1>
-<h3 align="center">Ingénieur Logiciel Full Stack · Java / Spring Boot · .NET · React</h3>
+<p align="center">
+  <img src="assets/header.svg" alt="Ibrahim Amine Melhaoui, Ingénieur Logiciel Full Stack" width="100%" />
+</p>
 
 <p align="center">
   Je conçois et développe des applications full stack robustes, maintenables et prêtes pour la production.
