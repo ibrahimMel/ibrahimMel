@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Ibrahim Amine Melhaoui, Ingénieur Logiciel Full Stack" width="100%" />
+  <img src="assets/banner.svg" alt="Ibrahim Amine Melhaoui, Ingénieur Logiciel Full Stack" width="100%" />
 </p>
 
 <p align="center">
